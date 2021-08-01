@@ -6,3 +6,4 @@ Tutorial at https://guides.github.com/activities/hello-world/?utm_source=onboard
 7/28/18:  2 factor authentication test2.
 7/28/18:  2 factor authentication test3.
 7/28/18:  2 factor authentication test4.
+7/31/21:  Testing new laptop installation.
