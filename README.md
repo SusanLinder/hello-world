@@ -7,3 +7,4 @@ Tutorial at https://guides.github.com/activities/hello-world/?utm_source=onboard
 7/28/18:  2 factor authentication test3.
 7/28/18:  2 factor authentication test4.
 7/31/21:  Testing new laptop installation.
+7/31/21:  Another test to see if I have to do credential manager again.
